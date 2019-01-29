@@ -1,4 +1,7 @@
-# TicTacToe
+# Tic-Tac-Toe Game
+Based on [React's tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+## setup
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
