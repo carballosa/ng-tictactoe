@@ -1,6 +1,9 @@
 # Tic-Tac-Toe Game
 Based on [React's tutorial](https://reactjs.org/tutorial/tutorial.html)
 
+## online
+See it here [online](https://carballosa.github.io/tictactoe-angular/)
+
 ## setup
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
@@ -24,6 +27,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+### Deploying to GitHub pages
+
+Run `npm run deploy` to deploy a production build of the app to `GitHub pages`.<br>
 
 ## Further help
 
